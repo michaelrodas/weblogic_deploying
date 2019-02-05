@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/lib/log4j-1.2.17.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/weblogic.server.merged.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/wls-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/com.oracle.webservices.wls.jaxws-wlswss-client.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/com.bea.core.weblogic.security.t3.standalone.client_2.2.0.0.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/config" expected_position="1" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/config" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="jdk1.6.0_45" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.17.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/log4j-1.2.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="weblogic.server.merged.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/weblogic.server.merged.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wls-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/wls-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.oracle.webservices.wls.jaxws-wlswss-client.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/com.oracle.webservices.wls.jaxws-wlswss-client.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.bea.core.weblogic.security.t3.standalone.client_2.2.0.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/com.bea.core.weblogic.security.t3.standalone.client_2.2.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
